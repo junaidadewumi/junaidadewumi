@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @junaidadewumi
-- 👀 I’m interested in Coding, projects, python, SQL, html, css and other data science coding tools...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m S. Omowumi JUNAID
+- 👀 I’m interested in data analysis projects involving: power BI, excel, Coding, python,and SQL.
+- 🌱 I’m data analyst ...
 - 💞️ I’m looking to collaborate on project
 - 📫 You can reach me via junaidadewumi@gmail.com
 
